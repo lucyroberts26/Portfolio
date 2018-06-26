@@ -1,0 +1,20 @@
+h1{
+	font-size: 50px;
+	margin: 5px;
+}
+h2{
+	color: lightblue;
+a{
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+	margin-bottom: 10px;
+}
+body{
+	font-family: Gill Sans;
+}
+.rounded{
+	border-radius: 20px;
+}
