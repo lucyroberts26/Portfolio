@@ -14,3 +14,7 @@ body{
 a{
 	text-decoration: none;
 }
+nav{
+	padding: 10px;
+	padding-left: 0px;
+}
