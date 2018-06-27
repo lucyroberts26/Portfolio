@@ -6,7 +6,7 @@ h2{
 	color: lightblue;
 }
 body{
-	font-family: Gill Sans;
+	font-family: 'Ubuntu', sans-serif;
 	padding: 20px;
 }
 .rounded{
@@ -17,6 +17,7 @@ a{
 	border: 2px solid;
 	border-color: lightblue;
 	padding: 5px;
+	color: lightblue;
 }
 nav{
 	padding: 10px;
