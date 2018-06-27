@@ -1,0 +1,40 @@
+
+	body {
+		font-family: 'Ubuntu', sans-serif;
+		padding: 20px;
+	}
+
+	h1 {
+		font-size: 50px;
+		margin: 5px,
+	}
+
+	h2 {
+		color: lightblue;
+	}
+
+	.rounded {
+		border-radius: 20px;
+	}
+
+	nav a {
+		text-decoration: none;
+		border: 2px solid;
+		border-color: lightblue;
+		padding: 5px;
+		color: lightblue;
+	}
+
+	a:hover {
+		color:pink;
+	}
+
+	a:visited {
+		color: lightblue;
+	}
+
+	nav {
+		padding: 10px;
+		padding-left: 0px;
+		margin: 10px;
+	}
