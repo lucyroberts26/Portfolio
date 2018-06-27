@@ -8,3 +8,6 @@ h2{
 body{
 	font-family: Gill Sans;
 }
+.rounded{
+	border-radius: 20px;
+}
