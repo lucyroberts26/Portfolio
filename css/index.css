@@ -14,9 +14,13 @@ body{
 }
 a{
 	text-decoration: none;
+	border: 2px solid;
+	border-color: lightblue;
+	padding: 5px;
 }
 nav{
 	padding: 10px;
 	padding-left: 0px;
 	margin: 10px;
+	
 }
