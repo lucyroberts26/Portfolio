@@ -7,6 +7,7 @@ h2{
 }
 body{
 	font-family: Gill Sans;
+	padding: 20px;
 }
 .rounded{
 	border-radius: 20px;
